@@ -1,0 +1,17 @@
+# build output
+out/
+obj/
+*.log
+*.pdb
+*.exp
+*.lib
+
+# vendored SDK (put your own copy here; not committed)
+extern/
+
+# local backups / editor
+*.bak
+*.bak-*
+.vs/
+*.user
+
